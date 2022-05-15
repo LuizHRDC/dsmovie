@@ -14,17 +14,11 @@
     font-family: "Open Sans", sans-serif;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 
-html,
-body {
+html, body {
     background-color: var(--bg-gray);
 }
 
@@ -52,8 +46,7 @@ nav a {
     font-weight: 400;
 }
 
-a,
-a:hover {
+a, a:hover {
     text-decoration: none;
     color: unset;
 }
@@ -123,8 +116,7 @@ a:hover {
     margin-bottom: 10px;
 }
 
-.dsmovie-btn,
-.dsmovie-btn:hover {
+.dsmovie-btn, .dsmovie-btn:hover {
     height: 40px;
     width: 180px;
     background-color: var(--color-primary);
